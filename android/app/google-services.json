@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "401174867241",
+    "project_id": "medilifelast",
+    "storage_bucket": "medilifelast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401174867241:android:b31efbf37891eff0bd5b38",
+        "android_client_info": {
+          "package_name": "app.etps3.nmedilife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401174867241-4ggi3k5v9tkv77hsom94is4k1itt5p5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.etps3.nmedilife",
+            "certificate_hash": "70a89fd9063be0d66c2abfcea39a8860af0ed2ee"
+          }
+        },
+        {
+          "client_id": "401174867241-bgu5pnamir563ga7k3s1seaje3je72ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeB_KT-RJwr70sve2CxXiAeRD7WxQzmgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401174867241-bgu5pnamir563ga7k3s1seaje3je72ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401174867241:android:eab78bdb04709d20bd5b38",
+        "android_client_info": {
+          "package_name": "com.example.carrito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401174867241-bgu5pnamir563ga7k3s1seaje3je72ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeB_KT-RJwr70sve2CxXiAeRD7WxQzmgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401174867241-bgu5pnamir563ga7k3s1seaje3je72ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401174867241:android:d317be5f17a12636bd5b38",
+        "android_client_info": {
+          "package_name": "com.example.medilifelast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401174867241-4bkdpt1sg3cqrdf5fnaeekrjtjht8nns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medilifelast",
+            "certificate_hash": "ed35dc7d3c9617433ab7076e69fdf9444a9a42f9"
+          }
+        },
+        {
+          "client_id": "401174867241-bgu5pnamir563ga7k3s1seaje3je72ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeB_KT-RJwr70sve2CxXiAeRD7WxQzmgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401174867241-bgu5pnamir563ga7k3s1seaje3je72ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401174867241:android:443d558c6ccf15d3bd5b38",
+        "android_client_info": {
+          "package_name": "com.santosenoque.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401174867241-bgu5pnamir563ga7k3s1seaje3je72ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeB_KT-RJwr70sve2CxXiAeRD7WxQzmgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401174867241-bgu5pnamir563ga7k3s1seaje3je72ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
